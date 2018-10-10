@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Library1</string>
+    <string name="secret_library1_resource">I am in library 1!</string>
+</resources>
